@@ -27,6 +27,4 @@ The company’s target is in several regions namely south, west, central, east a
 
 **Project Resources** <br>
 [Project Google Drive](<(https://drive.google.com/drive/folders/1oPjOA0OwSQ4FpBlB5C1hqJDg8D1E4wS0?usp=sharing)>)<br>
-=======
 
-> > > > > > > 3c13e6d0be338b8459e787033fc932101c660f61
