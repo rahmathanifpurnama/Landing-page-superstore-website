@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Capstone Project - Giant Superstore
 
 ## **Team 14 - Section Surabaya**
