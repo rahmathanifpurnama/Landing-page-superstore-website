@@ -197,4 +197,4 @@ node test_architecture.js
 Hak Cipta © 2024–2025 **Team 14 Surabaya — RevoU**. All rights reserved.
 
 **Project Resources** <br>
-[Project Google Drive](<(https://drive.google.com/drive/folders/1oPjOA0OwSQ4FpBlB5C1hqJDg8D1E4wS0?usp=sharing)>)<br>
+[Project Google Drive](https://drive.google.com/drive/folders/1oPjOA0OwSQ4FpBlB5C1hqJDg8D1E4wS0?usp=sharing)<br>
