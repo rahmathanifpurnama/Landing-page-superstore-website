@@ -1,0 +1,47 @@
+Diri saya 
+
+Lulusan Teknik Informatika dengan minat pada Data Analytics dan Software Engineering. Memiliki pengalaman dalam mengembangkan aplikasi dan website, mengolah serta memvisualisasikan data, serta memahami dasar pemrograman, struktur data, object-oriented programming, testing, dan problem solving. Terbiasa menggunakan Git dan GitHub untuk version control serta memiliki pengalaman dengan berbagai tools pengembangan seperti JavaScript, Flutter, WSL dan deployment aplikasi. Memiliki ketertarikan kuat untuk terus mengembangkan kemampuan analitis dan teknis dalam membangun solusi berbasis data maupun perangkat lunak.
+
+Revou
+Study Indepedent MSIB	Februari 2024 – April 2024
+Proyek Akhir:   Meningkatkan penjualan pada perusahaan Superstore dengan melakukan analisis data Membangun website mockup berdasarkan visualisasi data yang di berikan.
+•	Saya sebagai PIC di Team yang beranggotakan 11 orang dari project ini 
+•	Temuan Utama dari hasil analysis  adalah Profit Organik Naik 59.19%: Setelah memisahkan transaksi pencilan (outlier), pertumbuhan laba inti terbukti sehat. Kategori Bermasalah: Produk Tables menghasilkan kerugian terbesar (-$125.9M) akibat biaya dan diskon yang tidak terkontrol. Inefektivitas Diskon: Diskon 10%–45% tidak efektif mendongkrak kuantitas penjualan, melainkan mengikis margin secara drastis. Hasil ini bisa digunakan untuk dasar pengambilan keputusan perusahaan.
+•	Selanjutnya dari hasil visualisasi yang di dapat adalah membuat website untuk menampilkan dashboard yang telah di buat di looker studio oleh team kami
+link sumber project 
+https://whimsical.com/problem-statement-smart-3qRw4gAmGjM3zPQLJedzvw
+https://docs.google.com/spreadsheets/d/1U6iiu9DGoERwkntNmSNiAatmwoD125NY6NkU1ExaONE/edit?gid=1273219777#gid=1273219777
+https://docs.google.com/document/d/1YszM-pYS_65i8HZAAPyhjoz_tM2Sx4F3fUMCZWbrTms/edit?tab=t.0
+https://datastudio.google.com/u/0/reporting/45eae6e1-0ab2-49af-b4ff-5b9747f621f7/page/p_1sz8bxozfd
+https://drive.google.com/file/d/1v6ojS68Pkc2jRa-yyu9km6_AIQh2xE69/view?usp=sharing
+website link
+https://landing-page-superstore-website.vercel.app/#home
+https://github.com/rahmathanifpurnama/Landing-page-superstore-website
+
+Membuat Landing Page Desa Banjarang
+PKPM	                          Februari 2025
+Proyek Akhir:   Membangun website desa yang berisi informasi umum tentang desa
+•	Menganalisis kebutuhan pada aparatur desa tentang kebutuhan website seperti apa
+•	Design awal website desa di figma berdasarkan kebutuhan
+•	Meminta sumber website pada desa seperti link,foto,akun yang akan di tampilkan di website
+•	Mengimplementasikan hasil dari design web, dan analysis kebutuhan menggunakan html, css, javascript.
+link sumber project
+https://github.com/rahmathanifpurnama/DesaBanjaran
+
+Balai Pelatihan Pertanian Provinsi Lampung
+Magang Mandiri	Maret 2025  – Juni 2025
+Proyek Akhir:   Membangun aplikasi manajemen dokumen untuk perusahan
+•	Menganalisis kebutuhan sistem manajemen dokumen pada perusahaan. 
+•	Mendesain alur dan antarmuka aplikasi. 
+•	Mengembangkan aplikasi mobile menggunakan Flutter.
+•	Mengintegrasikan aplikasi dengan Firebase. 
+•	Melakukan testing dan perbaikan aplikasi.
+
+link sumber project
+https://github.com/rahmathanifpurnama/management-document-app
+
+link social media
+https://www.instagram.com/rahmathanippurnama/
+https://github.com/rahmathanifpurnama
+https://www.linkedin.com/in/rahmat-hanif-purnama/
+
