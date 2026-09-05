@@ -20,6 +20,13 @@
 
     function activateRoute(routeName) {
       const target = routes[routeName] ? routeName : initialRoute;
+
+      // Close mobile menu if open
+      if (navbarEl && navbarEl.classList.contains("nav-active")) {
+        navbarEl.classList.remove("nav-active");
+        if (burgerBtn) burgerBtn.classList.remove("toggle");
+      }
+
       if (activeRoute === target) return;
 
       activeRoute = target;
@@ -46,12 +53,6 @@
           }
         }
       });
-
-      // Close mobile menu if open
-      if (navbarEl && navbarEl.classList.contains("nav-active")) {
-        navbarEl.classList.remove("nav-active");
-        if (burgerBtn) burgerBtn.classList.remove("toggle");
-      }
 
       // Notify lifecycle listeners
       if (typeof onNavigate === "function") {
